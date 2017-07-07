@@ -1,0 +1,54 @@
+Test environment
+
+CI/CD PIPELINE - draft
+----------------------
+
+GitHub  code repository
+Jenkins  automatically trigger build. Automatically build image.
+Docker  containers to run images
+
+
+https://codefresh.io/blog/java_docker_pipeline/
+
+Base Docker image: Ubuntu? OpenJDK *.war
+Java application server:
+
+Docker
+------
+https://docs.docker.com/engine/docker-overview/
+
+-Container loosely isolated environment to run
+
+
+https://stackify.com/top-continuous-integration-tools/
+
+Jenkins
+-------
+Can be used to automate a project.
+It can build projects, run tests, detedct bugs, analyse code , deploy project.
+
+Key Features:
+
+Jenkins works as a standalone CI server, or you can turn it into a continuous delivery platform for virtually any of your projects
+Pre-built packages for Unix, Windows, and OS X ensures an easy installation process
+A web interface that can be used to quickly configure your server
+Custom plugins for build and source code management, administrative tasks, user interface, and platforms
+Deployable across a network of machines, improving performance of builds and tests
+Large community with leading software brands involved in development
+
+Chef ?
+----
+the main aim of Chef is to provide an automated environment for how your infrastructure is managed, deployed, and configured — 
+
+Key Features:
+
+In-build development kit with a set of tools to automate your code infrastructure
+Transfer your apps among cloud locations with ease
+Multi-manageable capabilities for managing cloud and physical servers
+Host your server API with Chef to provide a hardened layer of uptime guarantee
+
+
+Puppet
+------
+Maksullinen
+Free trial
