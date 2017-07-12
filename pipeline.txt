@@ -24,6 +24,7 @@ https://stackify.com/top-continuous-integration-tools/
 
 Jenkins
 -------
+Build deployment processes   
 Can be used to automate a project.
 It can build projects, run tests, detedct bugs, analyse code , deploy project.
 
@@ -38,7 +39,8 @@ Large community with leading software brands involved in development
 
 Chef ?
 ----
-the main aim of Chef is to provide an automated environment for how your infrastructure is managed, deployed, and configured — 
+writing automation scripts for admin tasks or applying policies on windows or linux machines   
+the main aim of Chef is to provide an automated environment for how your infrastructure is managed, deployed, and configured â€” 
 
 Key Features:
 
