@@ -27,6 +27,7 @@ Jenkins
 Build deployment processes   
 Can be used to automate a project.
 It can build projects, run tests, detedct bugs, analyse code , deploy project.
+Continuous Deployment can be achieved in Jenkins using Deploy to container Plugin too. Jenkins has evolved to take care of complete CI/CD pipeline and Chef integration is no more needed.    
 
 Key Features:
 
