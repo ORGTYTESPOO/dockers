@@ -1,2 +1,0 @@
-Moved the text to wiki (click link):
-https://github.com/ORGTYTESPOO/dockers/wiki/Test-environment
